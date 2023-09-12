@@ -19,12 +19,10 @@ function App() {
     <>
       <header className="header"></header>
       <section className="main">
-        <p></p>
-
         <div className="graphcontainer">
           <div className="column left">
             <h2>Electoral Donations Tracker 2023</h2>
-            <h2>About</h2>
+
             <p>
               This website/study attempts to understand and hopefully increase
               transparency concerning the issue of electoral funding for this
