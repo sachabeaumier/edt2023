@@ -1,7 +1,5 @@
 import WordCloud from './Wordcloud'
-import Geospatialnotebook from './Geospatial'
 import PieChartComponent from './Totaldonationspiechart'
-import About from './About'
 
 import StackedAreaChart from './StackedAreaChart'
 import {
@@ -46,8 +44,11 @@ function App() {
               alongside other insights (ie bio, companies they may be
               associated, sectoral interests) are available as a pubicly
               available API endpoint that is free to use{' '}
-              <a href="http://localhost:3000/api/data">here</a>. Should this
-              information be used or republished, please provide attributation.
+              <a href="https://edtracker2023-production.up.railway.app/api/data">
+                here
+              </a>
+              . Should this information be used or republished, please provide
+              attributation.
             </p>
             <h2>Technology and Methodologies</h2>
             <p>
@@ -63,8 +64,9 @@ function App() {
               within the <a href="https://www.anaconda.com/">Anaconda </a>{' '}
               suite. Tools also used for data analysis include Google Sheets,{' '}
               <a href="https://pandas.pydata.org/">Python Pandas,</a>{' '}
-              <a href="">Python Wordcloud</a>. Batch conversions of addresses to
-              their latitudinal and longtitudinal values provided by{' '}
+              <a href="https://pypi.org/project/wordcloud/">Python Wordcloud</a>
+              . Batch conversions of addresses to their latitudinal and
+              longtitudinal values provided by{' '}
               <a href="https://www.geoapify.com/">Geoapify</a> and geospatial
               mapping uses <a href="https://kepler.gl/">Kepler.gl</a> and
               Jupyter Notebooks. Data visualization uses{' '}
@@ -188,7 +190,9 @@ function App() {
             <p>
               For a further breakdown of donors, do checkout the API as
               available in the link{' '}
-              <a href="http://localhost:3000/api/data">here</a>
+              <a href="https://edtracker2023-production.up.railway.app/api/data">
+                here
+              </a>
             </p>
           </div>
         </div>
@@ -201,10 +205,6 @@ function App() {
               collaboration, website issues, please{' '}
               <a href="mailto: sacha.beaumier@gmail.com">flick me an email</a>
             </p>
-          </div>
-          <div className="graphcontainer">
-            <div className="column left"></div>
-            <div className="column right"></div>
           </div>
         </div>
       </section>
