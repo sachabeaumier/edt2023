@@ -76,15 +76,15 @@ function App() {
           </div>
 
           <div className="column right">
-            <h1>
+            <h2>
               Proportional Breakdown of Donations made to Political Parties
               since 2023 (NZD)
-            </h1>
+            </h2>
 
             <PieChartComponent />
           </div>
         </div>
-        <h1>Stacked Area Chart of Electoral Donations since 2023</h1>
+        <h2>Stacked Area Chart of Electoral Donations since 2023</h2>
         <StackedAreaChart />
 
         <div className="graphcontainer">
