@@ -48,7 +48,7 @@ function App() {
                 here
               </a>
               . Should this information be used or republished, please provide
-              attributation.
+              attributation (contact details can be found in footer).
             </p>
             <h2>Technology and Methodologies</h2>
             <p>
