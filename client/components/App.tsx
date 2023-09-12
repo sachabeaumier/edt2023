@@ -201,8 +201,8 @@ function App() {
           <div>
             <h2>Contact</h2>
             <p>
-              For questions, queries, further insights, recommendations, errors,
-              collaboration, website issues, please{' '}
+              For questions, queries, further insights, recommendations,
+              errorspotting, collaboration, website issues, please{' '}
               <a href="mailto: sacha.beaumier@gmail.com">flick me an email</a>
             </p>
           </div>
