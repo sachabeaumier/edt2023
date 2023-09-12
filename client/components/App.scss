@@ -1,0 +1,54 @@
+* {
+  // font-size: 100%;
+  font-family: Helvetica;
+ }
+
+body {
+  background-color: whitesmoke;
+}
+
+img{
+  max-width: 100%;
+  max-height: 100%
+  }
+
+  // .graphcontainer {
+
+  // }
+
+.wordcloudheader{
+  text-align: center
+}
+  .graphcontainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.column {
+    flex-basis: calc(50% - 10px); /* Two columns with a small gap in between */
+    margin: 5px;
+    padding: 20px;
+    box-sizing: border-box;
+   
+}
+
+.columnpie {
+  flex-basis: calc(50% - 10px); /* Two columns with a small gap in between */
+  margin: 5px;
+  padding: 20px;
+  box-sizing: border-box;
+  background-color: grey;
+}
+
+/* Media query for smaller screens (adjust breakpoints as needed) */
+@media screen and (max-width: 768px) {
+    .container {
+        flex-direction: column; /* Stack columns vertically */
+    }
+
+    .column {
+        flex-basis: 100%; /* Full width for each column */
+    }
+}

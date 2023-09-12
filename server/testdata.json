@@ -1,0 +1,787 @@
+[
+  
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "11 August 2023",
+      "donor": "Jonathan Edward Schick",
+      "address": "928 Kaipaki Road Kaipaki Cambridge",
+      "lat": "-37.8950811",
+      "lon": "175.4107917",
+      "total": "55000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "11 August 2023",
+      "donor": "Oregon Group Limited",
+      "address": "Level 4, Norfolk House 18 High Street Auckland",
+      "lat": "-36.8473154",
+      "lon": "174.7667846",
+      "total": "62000"
+  },
+  {
+      "political_party": "New Zealand First ",
+      "date_received": "11 August 2023",
+      "donor": "M J Wyborn",
+      "address": "1C, 89 Halsey StreetThe ViaductAuckland",
+      "lat": "-38.21441",
+      "lon": "175.855523",
+      "total": "100000"
+  },
+  {
+      "political_party": "New Zealand First",
+      "date_received": "11 August 2023",
+      "donor": "D Muller",
+      "address": "Suite 1, Level 1112 Parnell Road Parnell Auckland",
+      "lat": "-36.8615323",
+      "lon": "174.7821961",
+      "total": "30000"
+  },
+  {
+      "political_party": "New Zealand First",
+      "date_received": "11 August 2023",
+      "donor": "Z A Unkovich ",
+      "address": "78 Arney Road Remuera Auckland",
+      "lat": "-36.8686917",
+      "lon": "174.7923621",
+      "total": "50000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "3 August 2023",
+      "donor": "Mark Townsend",
+      "address": "4938 State Highway 2 RD1 Ngatea 3597",
+      "lat": "-37.279617",
+      "lon": "175.532581",
+      "total": "30000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "3 August 2023",
+      "donor": "Diane Townsend",
+      "address": "4938 State Highway 2 RD1 Ngatea 3597",
+      "lat": "-37.279617",
+      "lon": "175.532581",
+      "total": "20150"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "1 August 2023",
+      "donor": "Michael Sullivan",
+      "address": "62 Marine Parade Mellons Bay Auckland",
+      "lat": "-36.8481675",
+      "lon": "174.7263993",
+      "total": "50000"
+  },
+  {
+      "political_party": "Te Pāti Māori",
+      "date_received": "31 July 2023",
+      "donor": "John Tamihere",
+      "address": "11 Karemoana Drive Te Atatū Auckland",
+      "lat": "-36.834763",
+      "lon": "174.661612",
+      "total": "50000"
+  },
+  {
+      "political_party": "Freedoms New Zealand",
+      "date_received": "27 July 2023",
+      "donor": "Vision New Zealand",
+      "address": "44 Bob Charles Drive Golflands Auckland 2013",
+      "lat": "-36.9220179",
+      "lon": "174.9120829",
+      "total": "47052.53"
+  },
+  {
+      "political_party": "Green Party of Aotearoa New Zealand",
+      "date_received": "25 July 2023",
+      "donor": "Robert Morgan",
+      "address": "348 Oriental Parade Wellington 6011",
+      "lat": "-41.288951",
+      "lon": "174.7985844",
+      "total": "50000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "25 July 2023",
+      "donor": "Marcus Kearns",
+      "address": "16 Crannig Fen Wattle Downs Auckland 2103",
+      "lat": "-37.043697",
+      "lon": "174.892398",
+      "total": "25000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "25 July 2023",
+      "donor": "David Richwhite",
+      "address": "1/105 Sarsfield Street Herne Bay Auckland ",
+      "lat": "-36.8418694",
+      "lon": "174.7331507",
+      "total": "50000"
+  },
+  {
+      "political_party": "Vision New Zealand",
+      "date_received": "24 July 2023",
+      "donor": "Cheyne Huka Hakaraia",
+      "address": "105 Pakowhai Road Hastings",
+      "lat": "-39.6301185",
+      "lon": "176.8318709",
+      "total": "23000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "24 July 2023",
+      "donor": "Calum Manson",
+      "address": "74 St. George's Bay Road Parnell Auckland 1052",
+      "lat": "-36.852961",
+      "lon": "174.782226",
+      "total": "70000"
+  },
+  {
+      "political_party": "Freedoms New Zealand",
+      "date_received": "24 July 2023",
+      "donor": "Warwick & Averil Norman",
+      "address": "5 Paget Street Freemans Bay Auckland",
+      "lat": "-36.8553918",
+      "lon": "174.7475274",
+      "total": "23000"
+  },
+  {
+      "political_party": "ACT New Zealand",
+      "date_received": "20 July 2023",
+      "donor": "Cambrian TrustC/- Cambrian Trustee Limited via Philip ThorntonHasketh HenryLevel",
+      "address": "10188 Quay Street Auckland 1010",
+      "lat": "-36.8427958",
+      "lon": "174.7651231",
+      "total": "50000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "19 July 2023",
+      "donor": "Craig & Shayne Greenlees",
+      "address": "96 Plummer Road Tauranga 3176",
+      "lat": "-37.671696",
+      "lon": "176.139348",
+      "total": "50000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "18 July 2023",
+      "donor": "Hugh Ross Jones",
+      "address": "37 Saltburn Road Milford Auckland 0620",
+      "lat": "-36.7707555",
+      "lon": "174.7714371",
+      "total": "100000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "18 July 2023",
+      "donor": "VDB Management Services Limited",
+      "address": "652 Great South Road Manukau Auckland",
+      "lat": "-36.9870934",
+      "lon": "174.8819762",
+      "total": "50000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "18 July 2023",
+      "donor": "Buen Holdings Limited",
+      "address": "48 Crooks Road East Tamaki Auckland 2013",
+      "lat": "-36.9394622",
+      "lon": "174.89331",
+      "total": "200000"
+  },
+  {
+      "political_party": "New Zealand First",
+      "date_received": "10 July 2023",
+      "donor": "MJ Wyborn",
+      "address": "1C, 89 Halsey Street The Viaduct Auckland",
+      "lat": "-36.849193",
+      "lon": "174.764111",
+      "total": "50000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "5 July 2023",
+      "donor": "Graeme Thomas Harrison",
+      "address": "143 Forest Drive Methven 7730",
+      "lat": "-43.6287623",
+      "lon": "171.6369484",
+      "total": "20254"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "30 June 2023",
+      "donor": "Warren Lewis",
+      "address": "45 Cliff Road St Heliers Auckland 1071",
+      "lat": "-36.8460187",
+      "lon": "174.8623614",
+      "total": "500000"
+  },
+  {
+      "political_party": "ACT New Zealand",
+      "date_received": "29 June 2023",
+      "donor": "Atlas Concrete Limited",
+      "address": "11 Wairau Road Takapuna Auckland 0627",
+      "lat": "-36.7810649",
+      "lon": "174.7514595",
+      "total": "50000"
+  },
+  {
+      "political_party": "ACT New Zealand",
+      "date_received": "29 June 2023",
+      "donor": "Stephen Owen",
+      "address": "14 Ronaki Road Mission Bay Auckland",
+      "lat": "-36.8503469",
+      "lon": "174.8329591",
+      "total": "50000"
+  },
+  {
+      "political_party": "ACT New Zealand",
+      "date_received": "29 June 2023",
+      "donor": "Craig Heatley",
+      "address": "10C Brett Avenue Takapuna Auckland 0622",
+      "lat": "-36.7812466",
+      "lon": "174.7766175",
+      "total": "50000"
+  },
+  {
+      "political_party": "ACT New Zealand",
+      "date_received": "21 June 2023",
+      "donor": "Nicholas James Mowbray",
+      "address": "186 Mahoenui Valley Road Coatesville Auckland",
+      "lat": "-36.725203",
+      "lon": "174.660116",
+      "total": "50000"
+  },
+  {
+      "political_party": "ACT New Zealand",
+      "date_received": "21 June 2023",
+      "donor": "West Reeve Family Trust via Eldon Reeve and Hilary West",
+      "address": "90 Grampian Road St Heliers Auckland 1071",
+      "lat": "-36.8609064",
+      "lon": "174.8462205",
+      "total": "25000"
+  },
+  {
+      "political_party": "Green Party of Aotearoa New Zealand",
+      "date_received": "16 June 2023",
+      "donor": "Suzy Amis Cameron and James Cameron",
+      "address": "3289 Western Lake Road RD3 Featherston Wellington 5773",
+      "lat": "-41.118946",
+      "lon": "175.316403",
+      "total": "50000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "21 June 2023",
+      "donor": "Trevor Farmer",
+      "address": "6/16 Viaduct Harbour Avenue Auckland Central Auckland",
+      "lat": "-36.8456132",
+      "lon": "174.7584091",
+      "total": "100000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "21 June 2023",
+      "donor": "ADN Commercial Ltd",
+      "address": "76 Ossie James Drive Rekuhia Hamilton 3283",
+      "lat": "-37.864016",
+      "lon": "175.338674",
+      "total": "24500"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "20 June 2023",
+      "donor": "Jeffrey Graeme Douglas",
+      "address": "Remuera Auckland 1050",
+      "lat": "-36.8759344",
+      "lon": "174.8014178",
+      "total": "51303.3"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "20 June 2023",
+      "donor": "Christopher & Banks LTD",
+      "address": "188 Quay StreetAuckland",
+      "lat": "-36.8430369",
+      "lon": "174.7653522",
+      "total": "100000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "20 June 2023",
+      "donor": "Andrew Krukziener",
+      "address": "The Colonial Building 163 Queen Street Auckland CBD 1010",
+      "lat": "-36.84768325",
+      "lon": "174.7653543",
+      "total": "22000"
+  },
+  {
+      "political_party": "Green Party of Aotearoa New Zealand",
+      "date_received": "20 June 2023",
+      "donor": "Greg Payne",
+      "address": "350 Mahurangi West Road Warkworth 0983",
+      "lat": "-36.403788",
+      "lon": "174.665313",
+      "total": "25010"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "13 June 2023",
+      "donor": "Andrew Kelly",
+      "address": "61 Manuwai Drive Matua Tauranga 3110",
+      "lat": "-37.6669989",
+      "lon": "176.1166047",
+      "total": "25000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "13 June 2023",
+      "donor": "Jocelyn E A Lindsay",
+      "address": "11A Burwood Crescent Remuera Auckland 1050",
+      "lat": "-36.8623941",
+      "lon": "174.7995958",
+      "total": "50000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "13 June 2023",
+      "donor": "Brendan J Lindsay",
+      "address": "11A Burwood Crescent Remuera Auckland 1050",
+      "lat": "-36.8623941",
+      "lon": "174.7995958",
+      "total": "50000"
+  },
+  {
+      "political_party": "Green Party of Aotearoa New Zealand",
+      "date_received": "13 June 2023",
+      "donor": "L F Tapert",
+      "address": "75 Godden Crescent Mission Bay Auckland 1071",
+      "lat": "-36.8596247",
+      "lon": "174.8338652",
+      "total": "50000"
+  },
+  {
+      "political_party": "New Zealand Labour Party",
+      "date_received": "7 June 2023",
+      "donor": "NZ Meat Workers Union",
+      "address": "68 Langdons Road Papanui Christchurch",
+      "lat": "-43.4916052",
+      "lon": "172.6036265",
+      "total": "35000"
+  },
+  {
+      "political_party": "Green Party of Aotearoa New Zealand",
+      "date_received": "7 June 2023",
+      "donor": "Mark Zeman",
+      "address": "36 Valley Road Titirangi Auckland 0604",
+      "lat": "-36.948128",
+      "lon": "174.6637658",
+      "total": "21250"
+  },
+  {
+      "political_party": "Freedoms New Zealand",
+      "date_received": "2 June 2023",
+      "donor": "Warwick & Averil Norman",
+      "address": "5 Paget Street Freemans Bay Auckland",
+      "lat": "-36.8553918",
+      "lon": "174.7475274",
+      "total": "23000"
+  },
+  {
+      "political_party": "ACT New Zealand",
+      "date_received": "2 June 2023",
+      "donor": "Dame Jenny GibbsApt",
+      "address": "508, 155 Beaumont Street Wynyard Quarter Auckland 1010",
+      "lat": "-36.8419111",
+      "lon": "174.7548551",
+      "total": "55000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "31 May 2023",
+      "donor": "Peter Menzies",
+      "address": "25 William Street Takapuna Auckland",
+      "lat": "-36.791871",
+      "lon": "174.7784444",
+      "total": "20500"
+  },
+  {
+      "political_party": "New Zealand First",
+      "date_received": "30 May 2023(amended return received 10 July 2023)",
+      "donor": "Estate of Hugh Barrc/- Public TrustLevel",
+      "address": "8, 22-28 Willeston Street Wellington 6011",
+      "lat": "-41.2868702",
+      "lon": "174.7775961",
+      "total": "64979.69"
+  },
+  {
+      "political_party": "New Zealand Labour Party",
+      "date_received": "29 May 2023",
+      "donor": "E TuIncorporated",
+      "address": "7 McGregor Street Rongotai Wellington 6022",
+      "lat": "-41.3272689",
+      "lon": "174.8011303",
+      "total": "90000"
+  },
+  {
+      "political_party": "Green Party of Aoteroa New Zealand",
+      "date_received": "26 May 2023",
+      "donor": "Michael Lookman",
+      "address": "63 Greenacres Road Richmond Nelson 7081",
+      "lat": "-41.315067",
+      "lon": "173.085506",
+      "total": "100000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "19 May 2023",
+      "donor": "Gregory J & Paula R Dickson",
+      "address": "68C Marine Parade Mt Maunganui",
+      "lat": "-37.639645",
+      "lon": "176.1893752",
+      "total": "25000"
+  },
+  {
+      "political_party": "New Zealand Labour Party",
+      "date_received": "18 May 2023",
+      "donor": "Richard John Hubbard",
+      "address": "114 Hensman Road Queenstown 9300",
+      "lat": "-45.0320298",
+      "lon": "168.6788406",
+      "total": "100000"
+  },
+  {
+      "political_party": "New Zealand Labour Party",
+      "date_received": "18 May 2023",
+      "donor": "Phillip Mills",
+      "address": "6 Cremorne Street Herne Bay Auckland 1011",
+      "lat": "-36.8430396",
+      "lon": "174.7308365",
+      "total": "50000"
+  },
+  {
+      "political_party": "Green Party of Aotearoa New Zealand",
+      "date_received": "16 May 2023",
+      "donor": "Estate of Betty Harrisc/- Public Trust",
+      "address": "92 Bank Street Whangarei",
+      "lat": "-35.7234864",
+      "lon": "174.3200419",
+      "total": "100000"
+  },
+  {
+      "political_party": "Vision New Zealand",
+      "date_received": "10 May 2023",
+      "donor": "Raewyn Bhana",
+      "address": "78 Moumoukai Hill Road Nest Valley Auckland",
+      "lat": "-36.77156",
+      "lon": "174.749779",
+      "total": "25000"
+  },
+  {
+      "political_party": "Freedoms New Zealand",
+      "date_received": "10 May 2023",
+      "donor": "Warwick & Averil Norman",
+      "address": "5 Paget Street Freemans Bay Auckland",
+      "lat": "-36.8553918",
+      "lon": "174.7475274",
+      "total": "23000"
+  },
+  {
+      "political_party": "New Zealand First",
+      "date_received": "8 May 2023",
+      "donor": "AJR Finance Ltd",
+      "address": "Waterloo Business Park 23 Commerce Crescent Islington Christchurch",
+      "lat": "-43.5390679",
+      "lon": "172.5025783",
+      "total": "50000"
+  },
+  {
+      "political_party": "ACT New Zealand",
+      "date_received": "8 May 2023",
+      "donor": "Michael Reid",
+      "address": "21 Hanene Street St Heliers 1071",
+      "lat": "-36.8508923",
+      "lon": "174.8498561",
+      "total": "50000"
+  },
+  {
+      "political_party": "New Zealand First",
+      "date_received": "5 May 2023",
+      "donor": "John Bayley",
+      "address": "13 Glanville TerraceParnellAuckland",
+      "lat": "-36.856172",
+      "lon": "174.789137",
+      "total": "50000"
+  },
+  {
+      "political_party": "New Zealand First",
+      "date_received": "3 May 2023",
+      "donor": "Dave Muller",
+      "address": "Suite 1, Level 1112 Parnell RoadParnellAuckland",
+      "lat": "-36.861146",
+      "lon": "174.789077",
+      "total": "20000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "3 May 2023",
+      "donor": "Gregory J & Paula R Dickson",
+      "address": "68C Marine Parade Mt Maunganui",
+      "lat": "-37.639645",
+      "lon": "176.1893752",
+      "total": "25000"
+  },
+  {
+      "political_party": "New Zealand Labour Party",
+      "date_received": "3 May 2023",
+      "donor": "Karl Maughan",
+      "address": "33 Central Terrace Wellington",
+      "lat": "-41.2899573",
+      "lon": "174.7660393",
+      "total": "33804.35"
+  },
+  {
+      "political_party": "Green Party of Aotearoa New Zealand",
+      "date_received": "27 April 2023",
+      "donor": "Weft Knitting Company",
+      "address": "61-69 Orbell Street Sydenham Christchurch 8023",
+      "lat": "-43.5443469",
+      "lon": "172.6320675",
+      "total": "100000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "19 April 2023",
+      "donor": "Philip Maurice Carter",
+      "address": "12/214 Hereford Street Christchurch Central 8011",
+      "lat": "-43.532179",
+      "lon": "172.6424197",
+      "total": "50000"
+  },
+  {
+      "political_party": "New Zealand First",
+      "date_received": "14 April 2023",
+      "donor": "T FarmerLevel",
+      "address": "616 Viaduct Harbour Avenue Auckland",
+      "lat": "-36.8449448",
+      "lon": "174.7570021",
+      "total": "50000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "12 April 2023",
+      "donor": "Graeme Thomas Harrison",
+      "address": "143 Forest Drive Methven 7730",
+      "lat": "-43.6287623",
+      "lon": "171.6369484",
+      "total": "22000"
+  },
+  {
+      "political_party": "New Zealand First",
+      "date_received": "11 April 2023",
+      "donor": "M J Wyborn",
+      "address": "1C, 89 Halsey Street The Viaduct CBD Auckland",
+      "lat": "-36.8434432",
+      "lon": "174.7579096",
+      "total": "50000"
+  },
+  {
+      "political_party": "New Zealand Labour Party",
+      "date_received": "6 April 2023",
+      "donor": "Islay Little",
+      "address": "123 Opoho Road Opoho Dunedin 9010",
+      "lat": "-45.8574069",
+      "lon": "170.5277154",
+      "total": "100000"
+  },
+  {
+      "political_party": "Green Party of Aotearoa New Zealand",
+      "date_received": "3 April 2023",
+      "donor": "Phillip Mills",
+      "address": "6 Cremorne Street Auckland 1011",
+      "lat": "-36.8430396",
+      "lon": "174.7308365",
+      "total": "50000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "3 April 2023",
+      "donor": "Velocity Freight LtdLevel",
+      "address": "10, BDO Tower19 Como Street Takapuna",
+      "lat": "-36.78848415",
+      "lon": "174.7691689",
+      "total": "100000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "3 April 2023",
+      "donor": "Tracy Summerfield",
+      "address": "66 Melton Grange Road West Melton7671",
+      "lat": "-43.498278",
+      "lon": "172.362007",
+      "total": "20030"
+  },
+  {
+      "political_party": "ACT New Zealand",
+      "date_received": "24 March 2023",
+      "donor": "Christopher Meehan",
+      "address": "19 Herne Bay Road Herne Bay Auckland 1011",
+      "lat": "-36.8463575",
+      "lon": "174.7280918",
+      "total": "50000"
+  },
+  {
+      "political_party": "ACT New Zealand",
+      "date_received": "24 March 2023",
+      "donor": "Align Farm Investments Limited",
+      "address": "114 North Ridge Road Queenstown 9371",
+      "lat": "-44.9708097",
+      "lon": "168.7135207",
+      "total": "100000"
+  },
+  {
+      "political_party": "ACT New Zealand",
+      "date_received": "24 March 2023",
+      "donor": "Christopher Reeve",
+      "address": "21 William Street Takapuna Auckland 0622",
+      "lat": "-36.7920695",
+      "lon": "174.7785665",
+      "total": "25000"
+  },
+  {
+      "political_party": "ACT New Zealand",
+      "date_received": "24 March 2023",
+      "donor": "Christopher & Banks Limited Level",
+      "address": "4 3 Ferncroft Street Grafton Auckland 1010",
+      "lat": "-36.8591979",
+      "lon": "174.767528",
+      "total": "100000"
+  },
+  {
+      "political_party": "ACT New Zealand",
+      "date_received": "24 March 2023",
+      "donor": "Graeme Edwards for Beethoven Trust Apartment",
+      "address": "4/119 St Stephens Avenue Parnell Auckland 1052",
+      "lat": "-36.8516865",
+      "lon": "174.7909894",
+      "total": "50000"
+  },
+  {
+      "political_party": "ACT New Zealand",
+      "date_received": "24 March 2023",
+      "donor": "Gary Lane",
+      "address": "9 Argyle Street Herne Bay Auckland",
+      "lat": "-36.8429587",
+      "lon": "174.7322645",
+      "total": "50000"
+  },
+  {
+      "political_party": "ACT New Zealand",
+      "date_received": "24 March 2023",
+      "donor": "Murray Chandler",
+      "address": "91 Stanley Point Road Stanley Point Auckland 0624",
+      "lat": "-36.828887",
+      "lon": "174.7731962",
+      "total": "100000"
+  },
+  {
+      "political_party": "ACT New Zealand",
+      "date_received": "24 March 2023",
+      "donor": "Graeme Richard Hart Level",
+      "address": "9 148 Quay Street Auckland",
+      "lat": "-36.8452135",
+      "lon": "174.77409",
+      "total": "100000"
+  },
+  {
+      "political_party": "ACT New Zealand",
+      "date_received": "24 March 2023",
+      "donor": "Trevor Farmer",
+      "address": "6/16 Viaduct Harbour Avenue Auckland Central Auckland",
+      "lat": "-36.8456132",
+      "lon": "174.7584091",
+      "total": "100000"
+  },
+  {
+      "political_party": "ACT New Zealand",
+      "date_received": "24 March 2023",
+      "donor": "Michael George Thorburn",
+      "address": "91 Arney Road Remuera Auckland",
+      "lat": "-36.8702778",
+      "lon": "174.7921812",
+      "total": "50000"
+  },
+  {
+      "political_party": "ACT New Zealand",
+      "date_received": "23 March 2023",
+      "donor": "Nicholas James Mowbray",
+      "address": "186 Mahoenui Valley Road Coatesville Auckland",
+      "lat": "-36.725203",
+      "lon": "174.660116",
+      "total": "100000"
+  },
+  {
+      "political_party": "ACT New Zealand",
+      "date_received": "17 March 2023",
+      "donor": "Brendan Lindsay",
+      "address": "11A Burwood Crescent Remuera Auckland 1050",
+      "lat": "-36.8623941",
+      "lon": "174.7995958",
+      "total": "50000"
+  },
+  {
+      "political_party": "New Zealand National Party",
+      "date_received": "17 March 2023",
+      "donor": "Vanessa Weenink",
+      "address": "38a Hackthorne Road Cashmere Christchurch",
+      "lat": "-43.5737272",
+      "lon": "172.6238463",
+      "total": "20040"
+  },
+  {
+      "political_party": "New Zealand Labour Party",
+      "date_received": "13 March 2023",
+      "donor": "New Zealand Dairy Workers Union",
+      "address": "34 Harwood Street Hamilton North 3204",
+      "lat": "-37.78069955",
+      "lon": "175.2750306",
+      "total": "50000"
+  },
+  {
+      "political_party": "ACT New Zealand",
+      "date_received": "10 March 2023",
+      "donor": "Sir Peter Vela",
+      "address": "10 Hinau Road Karaka 2113",
+      "lat": "-37.0752552",
+      "lon": "174.9261116",
+      "total": "50000"
+  },
+  {
+      "political_party": "ACT New Zealand",
+      "date_received": "10 March 2023",
+      "donor": "Dame Jenny Gibbs Apt",
+      "address": "508, 155 Beaumont Street Wynyard Quarter Auckland 1010",
+      "lat": "-36.8419111",
+      "lon": "174.7548551",
+      "total": "50000"
+  },
+  {
+      "political_party": "DemocracyNZ",
+      "date_received": "7 March 2023",
+      "donor": "Steve Dent",
+      "address": "138 Tirohanga Road Tirohanga Lower Hutt",
+      "lat": "-41.1961539",
+      "lon": "174.9033077",
+      "total": "20000"
+  },
+  {
+      "political_party": "New Zealand First",
+      "date_received": "3 March 2023",
+      "donor": "The Estate of Hugh Barr C/- Public Trust Level",
+      "address": "8, 22-28 Willeston Street Wellington 6011",
+      "lat": "-41.2868702",
+      "lon": "174.7775961",
+      "total": "116162"
+  }
+]
+
