@@ -1,6 +1,6 @@
 import WordCloud from './Wordcloud'
 import PieChartComponent from './Totaldonationspiechart'
-
+import Footer from './Footer'
 import StackedAreaChart from './StackedAreaChart'
 import {
   ActStackedAreaChart,
@@ -197,16 +197,7 @@ function App() {
           </div>
         </div>
         <WordCloud />
-        <div>
-          <div>
-            <h2>Contact</h2>
-            <p>
-              For questions, queries, further insights, recommendations,
-              errorspotting, collaboration, website issues, please{' '}
-              <a href="mailto: sacha.beaumier@gmail.com">flick me an email</a>
-            </p>
-          </div>
-        </div>
+        <Footer />
       </section>
     </>
   )

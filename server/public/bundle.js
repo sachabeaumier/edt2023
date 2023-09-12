@@ -4505,9 +4505,9 @@ function App() {
             children: "This website/study attempts to understand and hopefully increase transparency concerning the issue of electoral funding for this coming New Zealand Election (Saturday, 14 October 2023). Given the disproportionate level of donations across political parties - as well as the potential public policy consequencies that may arise, a key research question of this study was to understand the relationship between productive economic sectors and political parties - with this information one can make an inference as to the policy configurations that may arise should a party come to power and therefore whose interests such policies are made for."
           }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("p", {
             children: ["In order to get greater clarity/insight on this question, an analysis has been made for every individual donor in relation to the industry they have made their wealth in. This information alongside other insights (ie bio, companies they may be associated, sectoral interests) are available as a pubicly available API endpoint that is free to use", ' ', /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("a", {
-              href: "http://localhost:3000/api/data",
+              href: "https://edtracker2023-production.up.railway.app/api/data",
               children: "here"
-            }), ". Should this information be used or republished, please provide attributation."]
+            }), ". Should this information be used or republished, please provide attributation (contact details can be found in footer)."]
           }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("h2", {
             children: "Technology and Methodologies"
           }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("p", {
@@ -4524,7 +4524,7 @@ function App() {
               href: "https://pandas.pydata.org/",
               children: "Python Pandas,"
             }), ' ', /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("a", {
-              href: "",
+              href: "https://pypi.org/project/wordcloud/",
               children: "Python Wordcloud"
             }), ". Batch conversions of addresses to their latitudinal and longtitudinal values provided by", ' ', /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("a", {
               href: "https://www.geoapify.com/",
@@ -4539,11 +4539,11 @@ function App() {
           })]
         }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("div", {
           className: "column right",
-          children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("h1", {
+          children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("h2", {
             children: "Proportional Breakdown of Donations made to Political Parties since 2023 (NZD)"
           }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)(_Totaldonationspiechart__WEBPACK_IMPORTED_MODULE_1__["default"], {})]
         })]
-      }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("h1", {
+      }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("h2", {
         children: "Stacked Area Chart of Electoral Donations since 2023"
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)(_StackedAreaChart__WEBPACK_IMPORTED_MODULE_2__["default"], {}), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("div", {
         className: "graphcontainer",
@@ -4641,29 +4641,22 @@ function App() {
             children: "This information was obtained by analyzing donors publicly available web presence to determine the industry they may come from, alongside companies they may have interest with (this latter detail is excluded for this study but available in the API under description details)."
           }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("p", {
             children: ["For a further breakdown of donors, do checkout the API as available in the link", ' ', /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("a", {
-              href: "http://localhost:3000/api/data",
+              href: "https://edtracker2023-production.up.railway.app/api/data",
               children: "here"
             })]
           })]
         })]
-      }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)(_Wordcloud__WEBPACK_IMPORTED_MODULE_0__["default"], {}), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("div", {
-        children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("div", {
+      }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)(_Wordcloud__WEBPACK_IMPORTED_MODULE_0__["default"], {}), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("div", {
+        children: /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("div", {
           children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("h2", {
             children: "Contact"
           }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("p", {
-            children: ["For questions, queries, further insights, recommendations, errors, collaboration, website issues, please", ' ', /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("a", {
+            children: ["For questions, queries, further insights, recommendations, errorspotting, collaboration, website issues, please", ' ', /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("a", {
               href: "mailto: sacha.beaumier@gmail.com",
               children: "flick me an email"
             })]
           })]
-        }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("div", {
-          className: "graphcontainer",
-          children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("div", {
-            className: "column left"
-          }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsx)("div", {
-            className: "column right"
-          })]
-        })]
+        })
       })]
     })]
   });
