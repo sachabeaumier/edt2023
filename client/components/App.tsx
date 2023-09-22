@@ -1,6 +1,7 @@
 import WordCloud from './Wordcloud'
 import PieChartComponent from './Totaldonationspiechart'
 import Footer from './Footer'
+import { GeoMap, GeoMap2 } from './Map'
 import StackedAreaChart from './StackedAreaChart'
 import {
   ActStackedAreaChart,
@@ -15,6 +16,8 @@ import {
 } from './IndividualAreaCharts'
 
 function App() {
+  const iframeSrc =
+    'https://profoundbathroomgraf.s3.ap-southeast-2.amazonaws.com/donations.html'
   return (
     <>
       <header className="header"></header>
@@ -81,6 +84,9 @@ function App() {
 
             <PieChartComponent />
           </div>
+        </div>
+        <div className="geo">
+          <GeoMap />
         </div>
         <h2>Stacked Area Chart of Electoral Donations since 2023</h2>
         <StackedAreaChart />
@@ -165,6 +171,7 @@ function App() {
               <a href="https://jupyter.org/try"> here</a>.
             </p>
           </div>
+
           <div className="wordcloud-intro">
             <h2>
               Donor relationship between Economic Sectors and Political Parties
@@ -195,6 +202,11 @@ function App() {
           </div>
         </div>
         <WordCloud />
+        <div className="">
+          {/* <h1>Embedded HTML in React</h1>
+          <GeoMap /> */}
+          {/* <GeoMap2 /> */}
+        </div>
         <Footer />
       </section>
     </>
